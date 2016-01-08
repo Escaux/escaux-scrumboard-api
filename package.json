@@ -1,0 +1,24 @@
+{
+  "name": "escaux-scrumboard-api",
+  "version": "1.0.0",
+  "description": "Scrumboard API for Mantis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "escaux",
+    "mantis",
+    "scrum",
+    "board",
+    "scrumboard"
+  ],
+  "author": "Raphael Medaer <raphael.medaer@escaux.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "config": "^1.17.1",
+    "hapi": "^12.0.1",
+    "moment": "^2.11.0",
+    "soap": "^0.11.1"
+  }
+}
